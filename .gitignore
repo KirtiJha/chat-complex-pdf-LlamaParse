@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.idea
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -60,6 +61,7 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+chroma_db/
 
 # Flask stuff:
 instance/
@@ -127,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.vscode
 
 # Spyder project settings
 .spyderproject
